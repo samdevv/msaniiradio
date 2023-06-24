@@ -1,10 +1,10 @@
 {"channels": [
 	{
 		"id": "7soul",
-		"title": "Seven Inch Soul",
-		"description": "Vintage soul tracks from the original 45 RPM vinyl.",
-		"dj": "Dion Watts Garcia",
-		"djmail": "dion@somafm.com",
+		"title": "Kikuyu Music",
+		"description": "Best kikuyu music",
+		"dj": "kikuyu",
+		"djmail": "samdevv1@gmail.com",
 		"genre": "oldies",
 		"image": "https://api.somafm.com/img/7soul120.png",
 		"largeimage": "https://api.somafm.com/logos/256/7soul256.png",
